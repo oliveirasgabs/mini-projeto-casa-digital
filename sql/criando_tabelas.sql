@@ -7,3 +7,7 @@ CREATE TABLE Alunos {
     data_cadastro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     data_modificacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 };
+
+CREATE TABLE Instrutores {
+
+};
